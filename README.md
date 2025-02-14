@@ -1,4 +1,9 @@
 # CSC-301-GROUP-ASSIGNMENT
+
+U22CS1090
+MANSUR OHINE MUHAMMAD
+
+
 SIMPLEX GROUP ASSIGNMENT
 Overview
 This program is designed to solve Linear Programming Problems (LPP) using the Simplex Method. It takes user input for constraints, variables, and an objective function, then applies an iterative approach to find the optimal solution.
